@@ -5,4 +5,3 @@ authors:
 resources:
  - https://cdn.jsdelivr.net/gh/emilefokkema/infinite-canvas-2@v0.2-alpha/dist/infinite-canvas.js
 normalize_css: no
-load_type: d
